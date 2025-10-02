@@ -17,8 +17,4 @@ pip install colorama
 
 pip install platform
 
-git clone https://github.com/Timeza123/COPYDISCORD2
-
-cd COPYDISCORD2
-
-python3 clonediscord.py
+git clone https://github.com/Timeza
